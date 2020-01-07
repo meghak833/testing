@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /** Store information of number of students in an array by creating array of objects and
  * display them
- * My first Program
+ * My first Program is not finished yet
  * @author Megha, Winter 2020
  */
 public class DisplayList {
